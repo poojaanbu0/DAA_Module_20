@@ -62,6 +62,7 @@ else:
 ```
 
 ## Output:
+![447225859-b78047f2-3979-40a7-833a-2e077214871e](https://github.com/user-attachments/assets/bf331591-f9b4-4623-8afc-3c50151c4c36)
 
 
 ## Result:
