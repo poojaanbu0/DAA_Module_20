@@ -36,6 +36,7 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 */
  Developed by: Pooja A
  Register Number:  212222240072
+\*
 
 N = 4
 def printSolution( sol ):
